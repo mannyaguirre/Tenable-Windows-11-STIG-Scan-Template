@@ -1,5 +1,8 @@
 # Using a Scan Template to Scan a Windows 11 VM
 
+<img width="698" height="333" alt="Screenshot 2026-05-04 141200" src="https://github.com/user-attachments/assets/528b7299-bb9f-41c5-9b93-4cbbbc3322a7" />
+
+
 ## Overview
 
 In this lab, I created a Windows 11 virtual machine and used a custom Tenable scan template to perform a vulnerability and compliance scan. The goal was to practice configuring scan templates, using credentialed scanning, observing vulnerability results, reviewing compliance audit findings, and identifying remediation recommendations.
