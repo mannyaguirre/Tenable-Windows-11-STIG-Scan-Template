@@ -402,6 +402,9 @@ This lab also reinforced the importance of safely cleaning up cloud resources af
 
 Overall, this project helped strengthen my understanding of scan templates, credentialed scanning, Windows security configuration, DISA STIG compliance checks, and vulnerability remediation workflows.
 
+---
+
+```text
 Author        : Manny Aguirre
 LinkedIn      : linkedin.com/in/mannyaguirre/
 GitHub        : github.com/mannyaguirre
