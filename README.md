@@ -401,3 +401,10 @@ The most important takeaway was understanding the value of credentialed scanning
 This lab also reinforced the importance of safely cleaning up cloud resources after testing, especially when those resources were intentionally configured to be insecure.
 
 Overall, this project helped strengthen my understanding of scan templates, credentialed scanning, Windows security configuration, DISA STIG compliance checks, and vulnerability remediation workflows.
+
+Author        : Manny Aguirre
+LinkedIn      : linkedin.com/in/mannyaguirre/
+GitHub        : github.com/mannyaguirre
+Date Created  : May 1, 2026
+Last Modified : May 1, 2026
+Version       : 1.0
