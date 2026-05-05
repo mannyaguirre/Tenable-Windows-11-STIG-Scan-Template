@@ -405,7 +405,7 @@ Overall, this project helped strengthen my understanding of scan templates, cred
 ---
 
 ```text
-Author        : Manny Aguirre
+Author        : Manuel Aguirre
 LinkedIn      : linkedin.com/in/mannyaguirre/
 GitHub        : github.com/mannyaguirre
 Date Created  : May 1, 2026
