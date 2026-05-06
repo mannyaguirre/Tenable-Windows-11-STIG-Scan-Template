@@ -1,4 +1,4 @@
-# Using a Tenable Scan Template to Scan a Windows 11 VM
+# Using a Tenable Scan Template: Windows 11 VM
 
 <img width="698" height="333" alt="Screenshot 2026-05-04 141200" src="https://github.com/user-attachments/assets/528b7299-bb9f-41c5-9b93-4cbbbc3322a7" />
 
