@@ -1,4 +1,4 @@
-# Using a Tenable Scan Template: Windows 11 VM
+# Advanced Network Scan - DISA STIG: Windows 11 VM
 
 <img width="711" height="347" alt="Screenshot 2026-05-06 181102" src="https://github.com/user-attachments/assets/10bdedf7-83c2-4df5-91b4-932e8c96ea03" />
 
