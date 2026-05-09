@@ -1,6 +1,7 @@
 # Advanced Network Scan - DISA STIG: Windows 11
 
-<img width="711" height="347" alt="Screenshot 2026-05-06 181102" src="https://github.com/user-attachments/assets/10bdedf7-83c2-4df5-91b4-932e8c96ea03" />
+<img width="702" height="342" alt="TenableStigs" src="https://github.com/user-attachments/assets/c00cd1f2-c0ab-484d-84df-715997704a02" />
+
 
 
 
