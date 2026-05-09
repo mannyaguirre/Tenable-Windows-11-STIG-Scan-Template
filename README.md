@@ -1,4 +1,4 @@
-# Advanced Network Scan - DISA STIG: Windows 11
+# Advanced Network Scan - DISA STIG: Windows 11 VM
 
 <img width="702" height="342" alt="TenableStigs" src="https://github.com/user-attachments/assets/c00cd1f2-c0ab-484d-84df-715997704a02" />
 
