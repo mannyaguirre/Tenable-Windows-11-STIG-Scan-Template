@@ -173,23 +173,23 @@ The results showed the vulnerabilities that were found, the description for each
 
 It is important to review the results of scans to learn about any possible vulnerabilities an organization may have and take the necessary steps to implement the organization's **Playbook** if necessary.
 
-### Exbibit 12
+### Exhibit 12
 
 <img width="1918" height="918" alt="Lab10" src="https://github.com/user-attachments/assets/372e6528-4970-4267-8cd6-7548fecd3c85" />
 
-### Exbibit 13
+### Exhibit 13
 
 <img width="1918" height="917" alt="Lab11" src="https://github.com/user-attachments/assets/a7b78f39-682e-4167-84bd-eaf4abf070b2" />
 
-### Exbibit 14
+### Exhibit 14
 
 <img width="1918" height="916" alt="Lab12" src="https://github.com/user-attachments/assets/9b6aeb6c-1b81-4c57-b3a0-5a1dfd201c67" />
 
-### Exbibit 15
+### Exhibit 15
 
 <img width="1918" height="915" alt="Lab13" src="https://github.com/user-attachments/assets/e898d45e-004d-4e49-ad41-55db482a26e9" />
 
-### Exbibit 16
+### Exhibit 16
 
 <img width="846" height="585" alt="Lab14" src="https://github.com/user-attachments/assets/88665074-6380-43eb-8ce0-fd51d44b87bc" />
 
